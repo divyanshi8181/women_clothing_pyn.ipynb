@@ -1,1 +1,2 @@
 # women_clothing_pyn.ipynb
+This project is focused on building a prediction model. At first, the all required libraries and a test dataset are imported. The dataset was evaluated and pre processed to prepare for it for processing, then a portion of it was kept for testing and the rest was used to train the model. The model was used to get some prediction dataset. Finnaly, prediction accuracy was checked against the test dataset, some adjusment were made and the model was re-trained for better accuracy.
